@@ -1,0 +1,30 @@
+{
+    "Christian":{
+        "name":"Christian Gómez",
+        "job":"Ingeniero industrial",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et doloremagna aliqua. Ut enim ad minim veniam, quis nostrudexercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat.",
+        "url":"Christiangomez@outlook.com",
+        "img": "https://raw.githubusercontent.com/sebastianrima/PruebaTecnicaLiving/main/Images/Christian.png"
+    },
+    "Maria":{
+        "name":"María Paula Méndez",
+        "job":"Ingeniera informatica",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et doloremagna aliqua. Ut enim ad minim veniam, quis nostrudexercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat.",
+        "url":"Mariamendez@outlook.com",
+        "img": "https://raw.githubusercontent.com/sebastianrima/PruebaTecnicaLiving/main/Images/Maria.png"
+    },
+    "Juan":{
+        "name":"Juan Esteban Mórales",
+        "job":"Ingeniero industrial",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et doloremagna aliqua. Ut enim ad minim veniam, quis nostrudexercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat.",
+        "url":"Juanmorales@outlook.com",
+        "img": "https://raw.githubusercontent.com/sebastianrima/PruebaTecnicaLiving/main/Images/Juan.png"
+    },
+    "Santiago":{
+        "name":"Santiago Rivera",
+        "job":"Emprendedor",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et doloremagna aliqua. Ut enim ad minim veniam, quis nostrudexercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat.",
+        "url":"Santiagorivera@outlook.com",
+        "img": "https://raw.githubusercontent.com/sebastianrima/PruebaTecnicaLiving/main/Images/Santiago.png"
+    }
+}
