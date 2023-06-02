@@ -1,0 +1,97 @@
+.Title{
+    width: 325px;
+    height: 44px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+
+    text-align: center;
+
+    background: linear-gradient(180deg, #0C245C 0%, #1A40A2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    mix-blend-mode: normal;
+}
+.MentorContainer{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.MentoresPreview{
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+.BackDecoration{
+    position: absolute;
+    width: 100%;
+    background-color: #E1E1E1;
+    height: 438px;
+    top: 22px;
+    z-index: -10;
+}
+p{    
+    position: relative;
+    width: 824px;
+    height: 100px;
+    
+    /* Desktop Styles/Body Text */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* GreyText */
+    
+    color: #5D5D61;
+    
+    mix-blend-mode: luminosity;
+}
+.VerMentoresButton{
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px 46px;
+    justify-content: center;
+
+    width: 244px;
+    height: 50px;
+
+    /* Solid Blue */
+
+    background: #192A67;
+    /* White */
+
+    border: 1px solid #FFFFFF;
+    /* ButtonShadow */
+
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    color: #FFFFFF;
+}

@@ -1,0 +1,69 @@
+.MentorName{
+    width: 165px;
+    height: 41px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120%;
+    line-height: 20px;
+
+    display: flex;
+    align-items: center;
+
+    color: #192A67;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.MentorPreviewInternal {
+    box-sizing: border-box;
+
+    position: relative;
+    width: 197.54px;
+    height: 497.35px;
+
+    background: #F2F2F2;
+}
+.MentorPreviewExternal {
+    box-sizing: border-box;
+
+    position: relative;
+    width: 207.54px;
+    height: 507.35px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    margin: 20px;
+    background-image: linear-gradient(to bottom,#0C245C,#1A40A2);
+}
+.MentorDesc {
+
+    width: 109px;
+    height: 36px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    display: flex;
+    align-items: center;
+
+    color: #5D5D61;
+
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.ImageMentor {
+    position: relative;
+    width: 205px;
+    height: 300px;
+    left: -1px;
+    top: 82px;
+}

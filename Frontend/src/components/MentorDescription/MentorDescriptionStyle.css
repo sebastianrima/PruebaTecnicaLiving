@@ -1,0 +1,71 @@
+
+#ImageMentorDes{
+    width: 261px;
+    height: 348px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#MentorName{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 30px;
+    /* identical to box height, or 107% */
+
+    display: flex;
+    align-items: center;
+
+    /* Solid Blue */
+
+    color: #192A67;
+}
+#MentorJob{
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    /* identical to box height, or 112% */
+
+    display: flex;
+    align-items: center;
+
+    /* GreyText */
+
+    color: #5D5D61;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+#MentorDesc{
+    width: 529px;
+    height: 150px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+
+    display: flex;
+    align-items: center;
+    text-align: justify;
+
+    /* GreyText */
+
+    color: #5D5D61;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
